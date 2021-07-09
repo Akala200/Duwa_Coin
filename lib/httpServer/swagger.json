@@ -373,7 +373,7 @@
                 "description": "",
                 "parameters": [
                     {
-                        "in": "header",
+                        "in": "body",
                         "name": "password",
                         "description": "Wallet password",
                         "required": true,
